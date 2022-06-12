@@ -1,0 +1,30 @@
+{
+  "name": "exercicio-web-socket",
+  "version": "1.0.0",
+  "description": "Exercicio de Web Socket DIO Backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmjardim05/exercicio-web-socket.git"
+  },
+  "keywords": [
+    "DIO",
+    "Node.js",
+    "javascript",
+    "Websocket"
+  ],
+  "author": "Joao Marcos Jardim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jmjardim05/exercicio-web-socket/issues"
+  },
+  "homepage": "https://github.com/jmjardim05/exercicio-web-socket#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongoose": "^6.3.6",
+    "socket.io": "^4.5.1"
+  }
+}
